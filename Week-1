@@ -1,0 +1,116 @@
+What type of service best describes Google Kubernetes Engine?
+ IAAS
+ Hybrid
+ PAAS
+ SAAS
+1 point
+The Google Cloud Platform (GCP) hierarchy helps you manage resources across multiple departments and multiple teams within an organization.
+	   Which of the following is at the lowest level of this hierarchy?
+ Organization
+ Folder
+ Resource
+ Project
+1 point
+Projects form part of the Google Cloud Platform (GCP) resources hierarchy. Which of the following is true concerning projects?
+ GCP Project IDs do not need to be unique
+ All resources must be associated with a project.
+ You can nest projects inside projects
+ Folders are nested under the project
+1 point
+Cloud Identity and Access Management (Cloud IAM) allows you to manage privileges. What do these privileges apply to?
+ Application
+ Google Cloud Platform Resources
+ Applications, GCP, and Operating Systems
+ Operating System
+1 point
+Google Cloud provides resources in multi-regions, regions, and zones. What best describes a zone?
+ An edge location
+ Geographic location to leverage services.
+ A point of presence (PoP).
+ One or more data centers
+1 point
+Google Cloud Platform (GCP) provides a variety of service choices. Which of the following services is infrastructure as a service (IaaS)?
+ Google Compute Engine
+ Google Kubernetes Engine
+ App Engine
+ Google Cloud Function
+1 point
+Which of the following best describes the major advantages GCP has over other cloud providers?
+ Google uses satellite links as a way of interconnecting Regions, Zones, and POPS.
+ Google owns one of the largest networks in the world. All regions and zones are connected on the same network
+ Google leases fiber from multiple vendors. In the event of a vendor’s fiber failing, another vendor's network can be used as a backup.
+ Google leverages traditional networking gear from commercial vendors
+1 point
+A zone is a deployment area for Google Cloud resources within a region. Which of the following is a zonal service?
+ Cloud Datastore
+ HTTPS Load Balancer
+ Virtual Private Networks
+ Google Cloud Virtual machine
+1 point
+What does it mean for a system to be elastic?
+ The system is multi-cloud.
+ The system can add and remove resources based on need.
+ The system can be moved from region to region.
+ The system can bounce back after an outage.
+1 point
+What is the purpose of a folder?
+ Used to organize users
+ Used to organize resources.
+ Used to organize projects
+ Folders are not part of the hierarchy.
+1 point
+True or False. Using Cloud Shell, you can manage your projects and resources easily without having to install the Cloud SDK
+ True
+ False
+1 point
+Which command line tool can be used to manage Cloud Storage?
+ gcloud
+ kubectl
+ gsutil
+ bq
+1 point
+How would you configure the Cloud SDK to work on your laptop?
+ Edit the .profile file of the SDK.
+ Download the config file from https://cloud.google.com
+ Run the gcloud init command.
+ Sync your laptop with Cloud Shell.
+1 point
+Every GCP service you use is associated with a project. Which of the following statements regarding projects are correct?
+ A project cannot be restored once deleted.
+ Each project is a separate account, and each resource belongs to exactly one project
+ Projects are billed and managed collectively.
+ Projects are the basis for enabling and using GCP services.
+ Projects have a single owner
+1 point
+True or False. Cloud Shell code editor is one of the developer tools built into the GCP console
+ True
+ False
+1 point
+In what format will a majority of the APIs return data in?
+ XML
+ YAML
+ JSON
+ YAML
+1 point
+What best describes the purpose of quotas?
+ Configuration used to prevent over consumption due to malicious attacks.
+ Configuration used to prevent billing surprises
+ Quotas are used to send billing alerts
+ Configuration used by Google to prevent building large systems
+ Quotas can automatically build infrastructure based on Stackdriver metrics.
+1 point
+How would you configure billing notifications in GCP?
+ Set up a billing alert in Stackdriver
+ Use Cloud Functions to fire off an email with daily budget totals
+ Enable a script using cron to kick off when a threshold is reached
+ Configure budgets and alerts.
+1 point
+True or False. s3config is a command-line option for the Cloud SDK?
+ True
+ False
+1 point
+How would you test a Google API and learn how it works?
+ Use the console to get the directions on how to build the API by service
+ Use the APIs Explorer that is part of the GCP console.
+ Use the gcloud command in the Cloud SDK.
+ Use the help files in Cloud Shell
