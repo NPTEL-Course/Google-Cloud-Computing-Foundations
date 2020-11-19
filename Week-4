@@ -1,0 +1,158 @@
+1. Which of the following is the most common API format in GCP?
+ CLI
+ gRPC
+ SOAP
+ REST
+
+REST
+
+2. What is the purpose of an API?
+ APIs replace web pages.
+ APIs create GUI interfaces
+ APIs are non-HTTPS interfaces used to interface with web interfaces.
+ APIs simplify the way disparate software resources communicate.
+
+APIs simplify the way disparate software resources communicate.
+
+3. Which of the following is the protocol used by REST APIs?
+ HTTPS
+ RDP
+ ICMP
+ Telnet
+
+HTTPS
+
+4. True or False. Firebase Authentication and Auth0 are two of the utilities Cloud Endpoints uses to support service-to-service and user authentication.
+ True
+ False
+
+True
+
+5. You are looking for a managed API service to provide an API frontend to your legacy systems. Which of these services would meet your needs?
+ CLI
+ Cloud Endpoints
+ Apigee Edge
+ gRPC
+
+Apigee Edge
+
+6. What are the specifications that Cloud Endpoints supports?
+ CLI
+ RFC
+ IEEE
+ OpenAPI
+ gRPC
+
+OpenAPI
+gRPC
+
+7. You are looking for a managed API service for your cloud-based services? Which of these services would meet your needs?
+ Apigee Edge
+ Cloud Endpoints
+ CLI
+ False
+
+Cloud Endpoints
+
+8. How does Cloud Pub/Sub deliver messages to endpoints?
+ Through an internal ID.
+ Messages have to be pulled by the front end.
+ By pushing messages to all available endpoints based on an internal list.
+ Through a publish/subscribe pattern
+
+Through a publish/subscribe pattern
+
+9. What are the types of message delivery supported with Cloud Pub/Sub?
+ Bounce
+ Pull
+ Poll
+ Push
+
+Pull
+Push
+
+10. You need a simple and reliable staging location for your event data on its journey towards processing, storage, and analysis. Which one of the following
+	   services should you consider?
+ Apigee Edge
+ Cloud Dataflow
+ Cloud Endpoints
+ Cloud Pub/Sub
+
+Cloud Pub/Sub
+
+11. Which statement regarding GCP and data encryption is accurate?
+ Data is encrypted at rest and in transit.
+ Only data at rest is encrypted.
+ Only data in transit is encrypted.
+ Nothing is encrypted by default. Data must be encrypted by the customer.
+
+Data is encrypted at rest and in transit.
+
+12. True or False. Managing GCP users through Google Groups allows an administrator to manage team identities centrally
+ True
+ False
+
+False
+
+13. When comparing on-premises, IaaS, PaaS, and managed services, which option requires the least amount of work for the user in terms of security?
+ IaaS
+ Managed service
+ On-premises
+ PaaS
+
+Managed service
+
+14. Which of the following is the correct statement for a service account in GCP?
+ Lock down a user.
+ Create a user in GCP.
+ Give permissions to a group of users.
+ Allow for service-to-service interaction with GCP.
+
+Allow for service-to-service interaction with GCP.
+
+15. What do primitive roles grant permissions to?
+ Folders
+ Resources
+ Organizations
+ Projects
+
+Projects
+
+16. Which of the following is not an example of a primitive role?
+ Owner
+ Admin
+ Viewer
+ Editor
+
+Admin
+
+17. When setting up user/role pairings in GCP, which of the following is true?
+ Permissions are not inherited.
+ Permissions are inherited and the least restrictive permission will be inherited
+ Everyone is a project owner by default.
+ The user will always inherit the stricter permission applied
+
+Permissions are inherited and the least restrictive permission will be inherited
+
+18. What service is used to supply encryption keys when users want to manage their own keys?
+ CloudHSM
+ Google is encrypted by default. No keys are required
+ The customer must bring their own keys and manage them
+ Cloud Key Management System
+
+Cloud Key Management System
+
+19. There are a number of best practices that should be applied to identity and access management. Which of the following does Google recommend?
+ Use folders to group instances
+ Use custom roles for all objects
+ Try to use primitive roles instead of pre-defined roles
+ Use the “principle of least privilege” when distributing permissions
+
+Use the “principle of least privilege” when distributing permissions
+
+20. True or False. Cloud Identity-Aware Proxy (Cloud IAP) allows you to use an application-level access control model instead of relying on network-level
+	   firewalls
+ True
+ False
+
+True
