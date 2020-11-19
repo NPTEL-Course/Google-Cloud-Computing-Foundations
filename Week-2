@@ -1,53 +1,71 @@
-
-1 point
-The predefined machine types do not fit your application requirement. What is the best solution for this case?
+1. The predefined machine types do not fit your application requirement. What is the best solution for this case?
  Setup autoscaling.
  Create a custom virtual machine that fits your requirements
  Over allocate resources for the instance
  Do nothing, the instance will size itself.
-1 point
-True or False. Compute Engine is billed for the first minute at boot-time and then per second of use
+
+Create a custom virtual machine that fits your requirements
+
+2. True or False. Compute Engine is billed for the first minute at boot-time and then per second of use
  True
  False
-1 point
-True or False. Java is a runtime option for Cloud Functions.
+
+True
+
+3. True or False. Java is a runtime option for Cloud Functions.
  True
  False
-1 point
-True or False? Local SSD disks are ephemeral
+
+True
+
+4. True or False? Local SSD disks are ephemeral
  True
  False
-1 point
-Which of the following options provides the customize runtimes for App Engine by supplying a custom Docker image or Dockerfile from the open source community.
+
+True
+
+5. Which of the following options provides the customize runtimes for App Engine by supplying a custom Docker image or Dockerfile from the open source community.
  App Engine Standard
  App Engine Internal
  Google Kubernetes Engine
  App Engine Flexible
-1 point
-Google Kubernetes Engine is built on the open-source Kubernetes system. Which of the following statements best describes what Kubernetes is?
+
+App Engine Flexible
+
+6. Google Kubernetes Engine is built on the open-source Kubernetes system. Which of the following statements best describes what Kubernetes is?
  An orchestration engine to manage containers.
  A virtualization platform.
  A format of container
  An execution environment for building and connecting cloud services.
-1 point
-True or False. Cloud Monitoring metrics can be used to trigger an autoscaling event
+
+An orchestration engine to manage containers.
+
+7. True or False. Cloud Monitoring metrics can be used to trigger an autoscaling event
  True
  False
-1 point
-Which of the following can trigger Cloud Functions ?
+
+True
+
+8. Which of the following can trigger Cloud Functions ?
  App Engine notification
  Webhook
  Stackdriver alert
  Email
-1 point
-Time-to-market is highly valuable to you and you want to be able to focus on writing code without ever having to touch a server, cluster, or infrastructure. Which service suits your needs?
+
+Webhook
+
+9. Time-to-market is highly valuable to you and you want to be able to focus on writing code without ever having to touch a server, cluster, or infrastructure. Which service suits your needs?
  Google Kubernetes Engine
  Google Compute Engine
  BigQuery
  App Engine
-1 point
-Which of the following is the container format used with Google Kubernetes Engine?
+
+App Engine
+
+10. Which of the following is the container format used with Google Kubernetes Engine?
  Rocket
  Glassfish
  Docker
  Spinnaker
+
+Docker
