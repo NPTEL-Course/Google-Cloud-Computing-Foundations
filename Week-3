@@ -1,0 +1,81 @@
+1. Which of the following storage options is the best choice for storing unstructured data like Image and web asset libraries?
+ Cloud Bigtable
+ Cloud Datastore
+ Cloud SQL
+ Cloud Storage
+
+Cloud Storage
+
+2. What is the largest object size that you can store in Cloud Storage?
+ Dependant on the storage class
+ 1 TB
+ Unlimited
+ 5 TB
+
+5 TB
+
+3. What Cloud Storage storage class would be an inexpensive option for backups that you test once a month?
+ Nearline
+ Coldline
+ Standard
+ Archive
+
+Nearline
+
+4. Which of the following is SQL based storage service with the horizontal scalability feature and is globally available?
+ Cloud Bigtable
+ Cloud Spanner
+ Cloud Datastore
+ Cloud SQL
+
+Cloud Spanner
+
+5. Cloud Datastore is a NoSQL based managed service. Which statement best describes Cloud Datastore?
+ A relational database
+ A data warehouse
+ A sparse, wide-column database
+ A document store
+
+A document store
+
+6. True or False. Cloud Spanner supports SQL skills to query the stored data.
+ True
+ False
+
+True
+
+7. Which of the following database engines does Cloud SQL support?
+ DB2
+ MongoDG
+ SQL Server
+ Oracle
+ PostgreSQL
+
+SQL Server
+PostgreSQL
+
+8. Cloud Bigtable provides a NoSQL based managed service option. Which one of the following is a valid use case for this service?
+ A customer preferences for Marketing Data
+ A backend for an Internet of Things (IoT) system.
+ A transactional database for a bank.
+ A data warehouse
+
+A customer preferences for Marketing Data
+A backend for an Internet of Things (IoT) system.
+
+9. Which of the following storage options is not a database?
+ Cloud SQL
+ Cloud Bigtable
+ Cloud Spanner
+ BigQuery
+
+BigQuery
+
+10. You have non-relational data and want a serverless database without having to worry about nodes or cluster management. Which service would best
+	   suit your needs?
+ Cloud Datastore
+ Cloud Bigtable
+ Cloud Spanner
+ Cloud SQL
+
+Cloud Datastore
