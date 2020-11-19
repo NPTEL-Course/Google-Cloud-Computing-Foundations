@@ -1,0 +1,78 @@
+1. How many IP addresses does a /24 network have?
+ 32
+ 256
+ 1024
+ 65556
+
+256
+
+2. Which of the following is not a type of virtual private cloud (VPC).
+ Default
+ Auto
+ Custom
+ Regional
+
+Regional
+
+3. True or False. Virtual private clouds (VPCs) are global and subnets are regional.
+ True
+ False
+
+True
+
+4. Virtual private cloud networks (VPCs) allow the deployment of infrastructure as a service resources, such as compute instances and containers.
+	   Which of these statements best describes a VPC?
+ A VPN connection
+ Virtual network adapters used for virtual machines.
+ A software-defined network built on top of Google's network
+ A dedicated link from Google Cloud Platform to a customer’s network.
+
+A software-defined network built on top of Google's network
+
+5. What is the purpose of a route?
+ A route will always point to a switch
+ A route allows or denies traffic in a network
+ A route provides a path for traffic to flow
+ A route connects two virtual private clouds (VPCs) together
+
+A route provides a path for traffic to flow
+
+6. Which of the following is true concerning firewall rules?
+ By default, firewall rules don't exist
+ Firewall rules allow all inbound and outbound traffic by default
+ Firewall rules allow all inbound traffic but denies outbound traffic by default.
+ Firewall rules block all inbound traffic by default.
+
+Firewall rules block all inbound traffic by default.
+
+7. You want to create a single location to control traffic to all the virtual private clouds (VPCs) in your organization. What is the best option?
+ Cloud Interconnect
+ Peering
+ Shared VPC
+ VPC peering
+
+Shared VPC
+
+8. Which load balancing option can be used if you want to distribute web traffic to two applications in different parts of the world?
+ Internal Load Balancer
+ Network Load Balancer
+ HTTP(S) Load Balancer
+ TCP Proxy Load Balancer
+
+HTTP(S) Load Balancer
+
+9. What option would you choose to create a private dedicated 10 GB/s link between GCP and your data center?
+ Peering
+ VPC sharing
+ VPN
+ Cloud Interconnect
+
+Cloud Interconnect
+
+10. Your instance needs a public IP address that won't change if the instance is shutdown and restarted. Which of the following is the best option?
+ Update the host file on the instance
+ Set the IP address on the boot script
+ Can’t be done. Have users point to the server via DNS name
+ Reserve a public static IP address from Google and assign it to the instance
+
+Reserve a public static IP address from Google and assign it to the instance
