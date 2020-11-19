@@ -1,0 +1,73 @@
+1. Which of the following statements most accurately describes machine learning?
+ Machine learning has to do with the theory and methods to build machines that think and act like humans
+ Machine learning uses algorithms that are applicable to a focussed group of datasets
+ Machine learning is a way to derive predictive insights from data
+ Machine learning is a way to generate data needed for analytics
+
+Machine learning is a way to derive predictive insights from data
+
+2. Which of the following statements best describes Cloud AutoML?
+ Enables users with no ML expertise to deploy models specific to their business needs
+ Enables users with limited ML expertise to train models specific to their business needs
+ Enables users with limited ML expertise to deploy pre-trained models specific to their business needs
+ Enables users with extensive ML expertise to train models specific to their business needs.
+
+Enables users with limited ML expertise to train models specific to their business needs
+
+3. True or False. The Cloud Translation API supports language detection in cases where the source language is unknown.
+ True
+ False
+
+True
+
+4. Which of the following services can help you develop ML projects from ideation to production and deployment quickly using tools like tensorflow?
+ Google Machine Learning APIs
+ Cloud AutoML
+ Cloud Dataproc
+ AI Platforms
+
+AI Platforms
+
+5. Which statement best describes TensorFlow?
+ A proprietary language for building machine learning models
+ Scikit-learn at scale.
+ An open source language to build machine learning models.
+ Spark ML at scale
+
+An open source language to build machine learning models.
+
+6. Which of the following video format annotations are supported in Cloud Video Intelligence API?
+ .MOV
+ .MPEG4
+ .MP4
+ .AVI
+ All of the above
+
+All of the above
+
+7. There are two APIs that apply to speech. If you need to create a lifelike interaction with users to support a customer service application, which of the two
+	   Speech APIs would you use?
+ Cloud Text-to-Speech API
+ Cloud Speech-to-Text API
+
+Cloud Text-to-Speech API
+
+8. True or False. Machine learning uses standard algorithms because it allows you to use the same code on different datasets to generate different models.
+ True
+ False
+
+True
+
+9. You have a requirement to identify parts of speech from unstructured text. Which of the following machine learning APIs should you use for this purpose?
+ Cloud Translation API
+ Cloud Speech-to-Text API
+ Cloud Text-to-Speech API
+ Cloud Natural Language API
+
+Cloud Natural Language API
+
+10. True or False. Facial detection and facial recognition are the key capabilities of the Cloud Vision API used to detect what an image is and classify it.
+ True
+ False
+
+False
