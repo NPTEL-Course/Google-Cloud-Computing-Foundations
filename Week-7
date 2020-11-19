@@ -1,0 +1,155 @@
+1. What statement best describes infrastructure as code (IaC)?
+ Automating systems construction using templates
+ Using Java scripts to build your systems
+ Replacing virtual servers with containers
+ Using Templates to build virtual machines
+
+Automating systems construction using templates
+
+2. True or False. Cloud Deployment Manager allows you to specify all the resources needed for your application in a declarative format using YAML.
+ True
+ False
+
+True
+
+3. Which statement accurately describes Google’s relationship with open source infrastructure as code (IaC) tools?
+ Open source tools are currently in beta
+ Google has a team of engineers available to support third-party, open source IaC tools.
+ Open source tools can only be used with a valid license
+ Open source IaC tools cannot be used with Google
+
+Google has a team of engineers available to support third-party, open source IaC tools.
+
+4. Which of the Operation services provides visibility of the uptime and overall performance of your app?
+ Cloud Monitoring
+ Cloud Logging
+ Cloud Debugger
+ Cloud Trace
+
+Cloud Monitoring
+
+5. What is the operation service that will store, search, and analyse log files?
+ Cloud Debugger
+ Cloud Monitoring
+ Cloud Logging
+ Cloud Trace
+
+Cloud Logging
+
+6. What is the purpose of Cloud Debugger?
+ Write code tools to interrogate issues
+ Slow down an application and step through the code
+ Report on bugs and send notifications to users
+ Investigate the behavior of application in production.
+
+Investigate the behavior of application in production.
+
+7.  want to automatically perform a test every 5 minutes to ensure your public web servers are up and running. Which of the following is the best
+	   option?
+ Open Cloud Shell and periodically ping the servers
+ Write a script and use cron to schedule when it runs
+ Create an uptime check in Cloud Monitoring to periodically test if the web servers are reachable
+ When a web server goes down, have it send a log entry to Cloud Monitoring to alert on the outage
+
+Create an uptime check in Cloud Monitoring to periodically test if the web servers are reachable
+
+8. t is the purpose of Cloud Error Reporting?
+ To inject errors into an application for testing.
+ To count, analyze, and aggregate crashes in running cloud services in real time
+ To report on storage issues with persistent disks.
+ To send notifications when an Instance crashes.
+
+To count, analyze, and aggregate crashes in running cloud services in real time
+
+9. t is the purpose of Cloud Trace?
+ Send latency statistics to the Cloud Error Reporting dashboard.
+ Inject errors in an application so the error can be traced.
+ Find performance bottlenecks in production
+ Create uptime check to monitor the application status
+
+Find performance bottlenecks in production
+
+10.  or False. Operation suite is a partner product that is easily installed through the GCP Console
+ True
+ False
+
+False
+
+11.  service leverages the Apache Beam SDK to perform ETL operations?
+ Cloud Dataproc
+ Cloud Dataprep
+ Cloud Dataflow
+ Cloud Firestore
+
+Cloud Dataflow
+
+12. want to make your Cloud Dataproc cluster disposable while keeping your data safe. Which of the following is the best option?
+ Leverage persistent disks.
+ Have the cluster stream data to filestore
+ Replace your HDFS filesystem with Cloud Storage.
+ Keep the cluster and continue to use HDFS.
+
+Replace your HDFS filesystem with Cloud Storage.
+
+13. of the following is a managed service for processing both batch and streaming data?
+ BigQuery
+ Cloud Dataflow
+ Cloud Dataprep
+ Cloud Dataproc
+
+Cloud Dataflow
+
+14.  or False. Data can be loaded into BigQuery using the BigQuery Web UI, the BigQuery API, or the BQ command line.
+ True
+ False
+
+True
+
+15.  code can Cloud Dataflow be written in?
+ Go
+ Java
+ PHP
+ Python
+ Ruby
+
+Go
+Java
+Python
+
+16. le provides quick start templates for Cloud Dataflow. Why would you use them?
+ To help get started coding.
+ To make it easier to use Spark.
+ To rapidly deploy data pipelines without programming expertise
+ To build pipelines using Cloud Deployment Manager.
+
+To rapidly deploy data pipelines without programming expertise
+
+17. Which of the following services is a fully managed data warehouse service in GCP?
+ Cloud SQL
+ Cloud Bigtable
+ Cloud Datastore
+ BigQuery
+
+BigQuery
+
+18. Which of the following statements regarding BigQuery is accurate?
+ BigQuery is a SQL database and requires a tight schema.
+ BigQuery is a drop-in replacement for Oracle
+ Before using BigQuery, you have to build a cluster
+ BigQuery is a NoOps managed service.
+
+BigQuery is a NoOps managed service.
+
+19. Which of the following is a managed solution to run Spark, Pig, Hive, and MapReduce in a batch environment with a managed cluster?
+ Cloud Dataproc
+ Cloud Dataprep
+ Cloud Dataflow
+ Cloud Runner
+
+Cloud Dataproc
+
+20. True or False, ‘Track’ is one of the pipeline components for Cloud Dataflow.
+ True
+ False
+
+False
